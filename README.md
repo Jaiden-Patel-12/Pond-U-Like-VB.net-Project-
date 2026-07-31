@@ -25,6 +25,21 @@ The application has the ability to allow employees to calculate accurate and pre
 
 ---
 
+## How It Works
+
+1. Enter the pond length, width and depth.
+2. Enter the customer's name and reference.
+3. Click **Calculate**.
+4. The application:
+   - Calculates liner area
+   - Selects the correct liner gauge
+   - Calculates the total cost
+5. Click **Save** to store the order.
+6. Click **View** to display previous orders.
+7. Click **Quit** to close the application.
+
+---
+
 ## Technologies Used
 
 - Visual Basic .NET
@@ -51,21 +66,6 @@ The application has the ability to allow employees to calculate accurate and pre
 
 ---
 
-## How It Works
-
-1. Enter the pond length, width and depth.
-2. Enter the customer's name and reference.
-3. Click **Calculate**.
-4. The application:
-   - Calculates liner area
-   - Selects the correct liner gauge
-   - Calculates the total cost
-5. Click **Save** to store the order.
-6. Click **View** to display previous orders.
-7. Click **Quit** to close the application.
-
----
-
 ## Validation
 
 The application validates all pond dimensions before calculations are performed.
@@ -82,7 +82,7 @@ If an invalid value is entered, an error message is displayed and the user is pr
 
 ---
 
-## Future Improvements
+## Possible Future Improvements
 
 Possible future enhancements include:
 
