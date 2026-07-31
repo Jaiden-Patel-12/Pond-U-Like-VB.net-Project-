@@ -93,13 +93,12 @@ Possible future enhancements include:
 - Export orders as PDF
 - Improved user interface
 - Customer order history
+- Employee Login System
 
 ### Application:
 <img width="900" height="267" alt="image" src="https://github.com/user-attachments/assets/31330188-4ce2-4267-8b68-d9f792609555" />
 <img width="900" height="267" alt="image" src="https://github.com/user-attachments/assets/ebcbac58-1680-406d-9ea9-629b45765a16" />
-- Login system for employees
 
 ---
 
-## Author
-Jaiden Patel
+## Author -Jaiden Patel
